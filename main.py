@@ -1,6 +1,8 @@
 import discord
 from discord.ext import commands
 from settings import token
+import search_runpee #search class, apparently
+
 
 client = commands.Bot()
 
